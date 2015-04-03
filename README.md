@@ -9,7 +9,10 @@
 个人觉得American Apparel的插肩T恤还蛮好看的。
 最好不要尝试V领T恤！容易显得很gay，且丑。
 
-品牌：优衣库，Gap等
+品牌：
+
+* 优衣库
+* Gap等
 
 示例如图：
 
@@ -26,9 +29,10 @@
 
 示例如图：
 
-![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch2/71.pic.jpg)
+![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch2/158.pic.jpg)
 
 ### 圆领T恤/衬衣＋运动帽衫＋牛仔裤/卡其裤：
+
 帽衫要纯色（参考硅谷Richard）或双色（参考TBBT的Leonard）
 
 示例如图：
@@ -39,22 +43,47 @@
 ### 圆领短袖T恤＋长袖T恤
 仿照Sheldon的穿法，长袖那件一定要是单色！短袖那件是单色加一些有趣的图案。
 
-品牌：优衣库，Gap，A&F，三叶草，American Apparel的纯色帽衫也不错
+品牌：
+* 优衣库
+* Gap
+* A&F
+* 三叶草
+* American Apparel的纯色帽衫也不错
+
+示例如图：
+
+![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch4/130.pic.jpg)
+
 
 ### 圆领T恤＋机车夹克/牛仔外套＋牛仔裤：
+
 T恤一定是纯色，最好纯白、浅灰这样的颜色。
 
 夹克和外套的选择就要看个人审美了，说也说不好，尽量纯黑，牛仔也尽量偏深色，款式尽量简洁，这样会比较保险。一定不要太花哨。
 
-品牌：A&F，DIESEl
+品牌：
+* A&F
+* DIESEl
+
+示例如图：
+
+![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch5/103.pic.jpg)
 
 ### 衬衣＋圆领毛衣/针织衫/毛衣开衫＋牛仔裤：
+
 最好各自是纯色，且颜色搭起来顺眼好看。
 
 ### 衬衣＋V领毛衣＋领带＋裤子你自己看着办吧：
+
 我的意思是裤子要挑尽量偏正装感的来穿。似乎这是稍有难度的穿法，但搭好就很好看。
 
 品牌：Select？
+
+示例如图：
+
+![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch7/139.pic.jpg)
+![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch7/140.pic.jpg)
+
 
 ### 关于选色问题:
 
@@ -65,6 +94,7 @@ T恤一定是纯色，最好纯白、浅灰这样的颜色。
 
 
 ### 如果你看过以下影片：
+
 - TBBT后几季里Sheldon的T恤可以参考，Richard也适当可以参考，另外俩货是反面教材。
 - IT狂人里Roy的T恤可以参考，Moss是反面典型。
 - 007：Skyfall里的Q很帅有没有，照着那样穿也行啊。
@@ -72,6 +102,7 @@ T恤一定是纯色，最好纯白、浅灰这样的颜色。
 
 
 ###最后：
+
 好像少了男士穿着一个很重要的部分：鞋子……这个真的一两句说不清啦！请雇我陪你买衣服，我再给你细细道来。嘻嘻。
 
 
