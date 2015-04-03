@@ -11,13 +11,30 @@
 
 品牌：优衣库，Gap等
 
+示例如图：
+
+![image](https://github.com/ronneymeow/programmerdresscode/raw/master/example_pics/ch1/21.pic.jpg)
+![image](https://github.com/ronneymeow/programmerdresscode/raw/master/example_pics/ch1/22.pic.jpg)
+![image](https://github.com/ronneymeow/programmerdresscode/raw/master/example_pics/ch1/23.pic.jpg)
+![image](https://github.com/ronneymeow/programmerdresscode/raw/master/example_pics/ch1/24.pic.jpg)
+![image](https://github.com/ronneymeow/programmerdresscode/raw/master/examplyye_pics/ch1/32.pic.jpg)
+
 ### 衬衣单穿＋牛仔裤/卡其裤：
 最好不要买格子衫啦啦啦。
 
 品牌：Zara
 
+示例如图：
+
+![image](https://github.com/ronneymeow/programmerdresscode/raw/master/example_pics/ch2/71.pic.jpg)
+
 ### 圆领T恤/衬衣＋运动帽衫＋牛仔裤/卡其裤：
 帽衫要纯色（参考硅谷Richard）或双色（参考TBBT的Leonard）
+
+示例如图：
+
+![image](https://github.com/ronneymeow/programmerdresscode/raw/master/example_pics/ch3/77.pic.jpg)
+
 
 ### 圆领短袖T恤＋长袖T恤
 仿照Sheldon的穿法，长袖那件一定要是单色！短袖那件是单色加一些有趣的图案。
