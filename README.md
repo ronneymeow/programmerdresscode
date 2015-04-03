@@ -14,7 +14,6 @@
 示例如图：
 
 ![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch1/23.pic.jpg)
-![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch1/24.pic.jpg)
 
 ### 衬衣单穿＋牛仔裤/卡其裤：
 最好不要买格子衫啦啦啦。
