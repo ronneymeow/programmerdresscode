@@ -13,11 +13,8 @@
 
 示例如图：
 
-![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch1/21.pic.jpg)
-![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch1/22.pic.jpg)
 ![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch1/23.pic.jpg)
 ![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch1/24.pic.jpg)
-![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/examplyye_pics/ch1/32.pic.jpg)
 
 ### 衬衣单穿＋牛仔裤/卡其裤：
 最好不要买格子衫啦啦啦。
@@ -34,6 +31,7 @@
 示例如图：
 
 ![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch3/77.pic.jpg)
+![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch1/21.pic.jpg)
 
 
 ### 圆领短袖T恤＋长袖T恤
@@ -50,6 +48,11 @@ T恤一定是纯色，最好纯白、浅灰这样的颜色。
 
 ### 衬衣＋圆领毛衣/针织衫/毛衣开衫＋牛仔裤：
 最好各自是纯色，且颜色搭起来顺眼好看。
+
+示例如图：
+
+![image](https://raw.githubusercontent.com/ronneymeow/programmerdresscode/master/example_pics/ch1/22.pic.jpg)
+
 
 ### 衬衣＋V领毛衣＋领带＋裤子你自己看着办吧：
 我的意思是裤子要挑尽量偏正装感的来穿。似乎这是稍有难度的穿法，但搭好就很好看。
